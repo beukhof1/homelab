@@ -1,4 +1,4 @@
-# Khue's Homelab
+# Hypernova Homelab
 
 **[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.khuedoan.com)**
 
